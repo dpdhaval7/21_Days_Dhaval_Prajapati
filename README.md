@@ -1,2 +1,2 @@
 # 21_Days_Dhaval_Prajapati
-Day_1_
+Day_1_Basics of Statistics
